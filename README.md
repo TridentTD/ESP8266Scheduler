@@ -19,7 +19,7 @@ You can install through the Arduino Library Manager. The package name is
 Include the library in your sketch
 
 ```cpp
-#include <Scheduler.h>
+#include <ESP8266Scheduler.h>
 ```
 
 In your setup function start the scheduler
@@ -39,7 +39,7 @@ much as the normal Arduino standard.
 
 ```cpp
 class BlinkTask : public Task {
-protected:
+    uint8_t state;
     void setup() {
         state = HIGH;
 
@@ -53,9 +53,6 @@ protected:
 
         delay(1000);
     }
-
-private:
-    uint8_t state;
 } blink_task;
 ```
 
