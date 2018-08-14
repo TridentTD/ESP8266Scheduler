@@ -2,7 +2,8 @@
 
 ESP8266 Co-operative Multitasking  
   
-( This repo. is cleaned from Nick Wiersma's ESP8266Scheduler )  
+( This repo. is forked from Nick Wiersma's ESP8266Scheduler with recleaned  
+https://github.com/nrwiersma/ESP8266Scheduler )  
   
 # Quick Start
 
