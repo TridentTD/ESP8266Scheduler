@@ -1,7 +1,9 @@
-# ESP8266Scheduler
+# Nick Wiersma's ESP8266Scheduler
 
-ESP8266 Co-operative Multitasking
-
+ESP8266 Co-operative Multitasking  
+  
+( This repo. is cleaned from Nick Wiersma's ESP8266Scheduler )  
+  
 # Quick Start
 
 ## Installing
