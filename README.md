@@ -3,9 +3,9 @@
 ESP8266 Co-operative Multitasking  
   
 หมายเหตุ   
-Repo. นี้ สร้างโดย Nick Wiersma's ESP8266Scheduler 
-https://github.com/nrwiersma/ESP8266Scheduler 
-โดยพัฒนามาจาก IVAN's ESP8266's cont.h library
+Repo. นี้ สร้างโดย Nick Wiersma's ESP8266Scheduler  
+https://github.com/nrwiersma/ESP8266Scheduler  
+โดยพัฒนามาจาก IVAN's ESP8266's cont.h library  
 ผู้เขียนนำมาทำความสะอาดนิดหน่อยเพื่อให้ run ตัวอย่างได้ถูกต้อง   
 
 # Quick Start
