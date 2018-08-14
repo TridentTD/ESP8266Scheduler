@@ -4,7 +4,7 @@ ESP8266 Co-operative Multitasking
   
 เครดิตผู้สร้างไลบรารี่นี้ สร้างโดย Nick Wiersma  
 https://github.com/nrwiersma/ESP8266Scheduler  
-โดยพัฒนามาจากพื้นฐานของ IVAN's ESP8266's cont.h library อีกทอดนึง  
+โดยพัฒนามาจากพื้นฐานของ IVAN's cont.h library อีกทอดนึง  
 ผู้เขียนเพียงนำมาทำความสะอาดนิดหน่อยเพื่อให้ run ตัวอย่างได้ถูกต้อง   
 
 # Quick Start
